@@ -22,12 +22,16 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 159 Contributions in the Year 2022
+> 🏆 433 Contributions in year 2020
  > 
-> 📜 2 Public Repositories 
+> 📦 Used 292.3 kB in GitHub's Storage 
  > 
-> 🔑 28 Private Repositories  
+> 💼 Opted to Hire
  > 
+> 📜 25 Public Repository 
+ > 
+> 🔑 15 Owned Private Repository 
+
 **I'm a Night Owl🦉** 
 
 ```text
@@ -37,7 +41,7 @@
 🌙 Night      425 commits    █████████░░░░░░░░░░░░░░░░   39.32%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sundays** 
 
 ```text
 Monday       141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
