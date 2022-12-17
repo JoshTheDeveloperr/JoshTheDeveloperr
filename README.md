@@ -55,13 +55,14 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Port-au-Prince
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               15 mins             ████████████████████░░░░░   82.11% 
+JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.89%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -78,5 +79,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 00:57:03 UTC
+ Last Updated on 17/12/2022 00:55:13 UTC
 <!--END_SECTION:waka-->
