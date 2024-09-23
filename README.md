@@ -8,7 +8,7 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-941%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,8 +53,8 @@ Sunday                   142 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Port_of_Spain
 
 💬 Programming Languages: 
-TypeScript               8 hrs 18 mins       ████████████████░░░░░░░░░   62.23 % 
-JavaScript               4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+TypeScript               8 hrs 18 mins       ████████████████░░░░░░░░░   62.22 % 
+JavaScript               4 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.37 % 
 Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
@@ -79,5 +79,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2024 01:23:37 UTC
+ Last Updated on 23/09/2024 01:18:48 UTC
 <!--END_SECTION:waka-->
