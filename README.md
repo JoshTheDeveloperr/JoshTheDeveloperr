@@ -53,15 +53,13 @@ Sunday                   151 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Port_of_Spain
 
 💬 Programming Languages: 
-Other                    21 mins             ██████████░░░░░░░░░░░░░░░   41.85 % 
-JavaScript               15 mins             ████████░░░░░░░░░░░░░░░░░   30.79 % 
-PHP                      14 mins             ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +75,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2024 01:23:30 UTC
+ Last Updated on 16/11/2024 01:21:47 UTC
 <!--END_SECTION:waka-->
