@@ -8,9 +8,9 @@
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -53,17 +53,18 @@ Sunday                   162 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Port_of_Spain
 
 💬 Programming Languages: 
-TypeScript               6 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
-JavaScript               3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Go                       2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+TypeScript               6 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+JavaScript               3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Go                       2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 26 mins      █████████████████████████   100.00 % 
+Cursor                   19 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +80,5 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 01:05:22 UTC
+ Last Updated on 24/06/2025 01:02:27 UTC
 <!--END_SECTION:waka-->
