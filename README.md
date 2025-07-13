@@ -53,16 +53,13 @@ Sunday                   164 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Port_of_Spain
 
 💬 Programming Languages: 
-JavaScript               15 mins             █████████████░░░░░░░░░░░░   50.09 % 
-TypeScript               15 mins             ████████████░░░░░░░░░░░░░   48.59 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +75,5 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2025 01:05:01 UTC
+ Last Updated on 13/07/2025 01:09:44 UTC
 <!--END_SECTION:waka-->
