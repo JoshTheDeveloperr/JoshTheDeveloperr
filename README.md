@@ -1,5 +1,30 @@
-<h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">Student, Founder & Full Stack Dev based out of Jamaica</h3>
+# Hi, I'm Joshua 👋
+
+I'm a 20 year old software engineer & founder based in Jamaica.
+
+![Profile views](https://komarev.com/ghpvc/?username=JoshTheDeveloperr&style=flat-square&color=7ee787&label=Profile+views)
+
+## What I work with
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,go,php,java,py,cpp,html,css)](https://skillicons.dev)
+
+**Frameworks**
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,svelte,astro,nodejs)](https://skillicons.dev)
+
+**Infrastructure**
+
+[![Infrastructure](https://skillicons.dev/icons?i=linux,docker,postgres,nginx,cloudflare,wordpress,bash)](https://skillicons.dev)
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel)](https://skillicons.dev)
+
+## Find me
+
+🌐 [joshuaharris.net](https://joshuaharris.net)
 
 ### Metrics
 
